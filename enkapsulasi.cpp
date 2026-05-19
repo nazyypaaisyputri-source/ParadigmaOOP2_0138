@@ -12,3 +12,9 @@ string getSaklarNo(int i) {
         return saklarNo[i];
     }
 };
+
+int main() {
+    remoteLampu lampuRumah;
+
+    return 0;
+} 
